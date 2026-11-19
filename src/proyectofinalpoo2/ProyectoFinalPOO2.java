@@ -14,9 +14,9 @@ public class ProyectoFinalPOO2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Pero axel me la tocas? :v");
         
         
-        // TODO code application logic here
     }
     
 }
